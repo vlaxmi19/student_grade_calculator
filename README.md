@@ -1,3 +1,5 @@
+STUDENT GRADE CALCULATOR                           
+
 Creating a Java program that takes marks obtained in multiple subjects, calculates the total marks, average percentage, assigns a grade based on the average percentage, and displays the results to the user.
 
 1-Input Number of Subjects: The program first prompts the user to enter the number of subjects.        
